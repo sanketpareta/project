@@ -1,0 +1,721 @@
+[
+    {
+        "name": "India",
+        "moduleId": 1,
+        "parentId": 0,
+
+        "children": [
+            {
+                "name": "Rajasthan",
+                "moduleId": 6,
+                
+                "parentId": 1,
+                "children": [
+                    {
+                        "name": "Kota",
+                        "moduleId": 11,
+                        "parentId": 6,
+                        "children": [
+                            {
+                                "name": "Form1",
+                                "moduleId": 16,
+                                "parentId": 11,
+                                "path": "/Form-1"
+                            },
+                            {
+                                "name": "Form2",
+                                "moduleId": 17,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "Form3",
+                                "moduleId": 18,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "Form4 ",
+                                "moduleId": 19,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "Form5",
+                                "moduleId": 20,
+                                "parentId": 11
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Jaipur",
+                        "moduleId": 12,
+                        "parentId": 5,
+                        "children": [
+                            {
+                                "name": "form6",
+                                "moduleId": 21,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form7 ",
+                                "moduleId": 22,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form8",
+                                "moduleId": 23,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form9",
+                                "moduleId": 24,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form10",
+                                "moduleId": 25,
+                                "parentId": 12
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Udaipur",
+                        "moduleId": 13,
+                        "parentId": 5,
+                        "children": [
+                            
+                        ]
+                    },
+                    {
+                        "name": "jhalawar",
+                        "moduleId": 14,
+                        "parentId": 5,
+                        "children": [
+                            
+                        ]
+                    },
+                    {
+                        "name": "Rajsamand",
+                        "moduleId": 15,
+                        "parentId": 5,
+                        "children": [
+                          
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Gujarat",
+                "moduleId": 7,
+                "parentId": 1,
+                "children": [
+                    {
+                        "name": "Rajkot",
+                        "moduleId": 41,
+                        "parentId": 7,
+                        "children": [
+                           
+                        ]
+                    },
+                    {
+                        "name": "Ahmedabad",
+                        "moduleId": 42,
+                        "parentId": 5,
+                        "children": [
+                            
+                        ]
+                    },
+                    {
+                        "name": "Surat",
+                        "moduleId": 43,
+                        "parentId": 5,
+                        "children": [
+                            
+                        ]
+                    },
+                    {
+                        "name": "xyz",
+                        "moduleId": 44,
+                        "parentId": 5,
+                        "children": [
+                          
+                        ]
+                    }
+                   
+                ]
+            },
+            {
+                "name": "Panjab",
+                "moduleId": 8,
+                "parentId": 1,
+                "children": [
+                    
+                ]
+            },
+            {
+                "name": "Goa",
+                "moduleId": 9,
+                "parentId": 1,
+                "children": [
+                    
+                    
+                ]
+            }
+          
+        ]
+    },
+    {
+        "name": "Australia",
+        "moduleId": 2,
+        "parentId": 0,
+        "children": [
+            {
+                "name": "New South Wales",
+                "moduleId": 166,
+                "path": "/department/science",
+                "parentId": 1,
+                "children": [
+                    {
+                        "name": "Sydney",
+                        "moduleId": 171,
+                        "parentId": 6,
+                        "children": [
+                            {
+                                "name": "form11",
+                                "moduleId": 176,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "form12 ",
+                                "moduleId": 177,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "form13",
+                                "moduleId": 178,
+                                "parentId": 11
+                            },
+                            {
+                                "name": " form14",
+                                "moduleId": 179,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "form15",
+                                "moduleId": 180,
+                                "parentId": 11
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Darwin ",
+                        "moduleId": 172,
+                        "parentId": 5,
+                        "children": [
+                            {
+                                "name": "form16",
+                                "moduleId": 181,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form17",
+                                "moduleId": 182,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form18",
+                                "moduleId": 183,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form19",
+                                "moduleId": 184,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form20 ",
+                                "moduleId": 185,
+                                "parentId": 12
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Canberra",
+                        "moduleId": 173,
+                        "parentId": 5,
+                        "children": [
+                            {
+                                "name": "form",
+                                "moduleId": 26,
+                                "parentId": 13
+                            }
+                            
+                            
+                            
+                        ]
+                    }
+                  
+                ]
+            }
+           
+        ]
+    },
+    {
+        "name": "Japan",
+        "moduleId": 3,
+        "parentId": 0,
+        "children": [
+            {
+                "name": "Rajasthan",
+                "moduleId": 6,
+                
+                "parentId": 1,
+                "children": [
+                    {
+                        "name": "Kota",
+                        "moduleId": 11,
+                        "parentId": 6,
+                        "children": [
+                            {
+                                "name": "Form1",
+                                "moduleId": 16,
+                                "parentId": 11,
+                                "path": "/Form-1"
+                            },
+                            {
+                                "name": "Form2",
+                                "moduleId": 17,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "Form3",
+                                "moduleId": 18,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "Form4 ",
+                                "moduleId": 19,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "Form5",
+                                "moduleId": 20,
+                                "parentId": 11
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Jaipur",
+                        "moduleId": 12,
+                        "parentId": 5,
+                        "children": [
+                            {
+                                "name": "form6",
+                                "moduleId": 21,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form7 ",
+                                "moduleId": 22,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form8",
+                                "moduleId": 23,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form9",
+                                "moduleId": 24,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form10",
+                                "moduleId": 25,
+                                "parentId": 12
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Udaipur",
+                        "moduleId": 13,
+                        "parentId": 5,
+                        "children": [
+                            
+                        ]
+                    },
+                    {
+                        "name": "jhalawar",
+                        "moduleId": 14,
+                        "parentId": 5,
+                        "children": [
+                            
+                        ]
+                    },
+                    {
+                        "name": "Rajsamand",
+                        "moduleId": 15,
+                        "parentId": 5,
+                        "children": [
+                          
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Gujarat",
+                "moduleId": 7,
+                "parentId": 1,
+                "children": [
+                    {
+                        "name": "Rajkot",
+                        "moduleId": 41,
+                        "parentId": 7,
+                        "children": [
+                           
+                        ]
+                    },
+                    {
+                        "name": "Ahmedabad",
+                        "moduleId": 42,
+                        "parentId": 5,
+                        "children": [
+                            
+                        ]
+                    },
+                    {
+                        "name": "Surat",
+                        "moduleId": 43,
+                        "parentId": 5,
+                        "children": [
+                            
+                        ]
+                    },
+                    {
+                        "name": "xyz",
+                        "moduleId": 44,
+                        "parentId": 5,
+                        "children": [
+                          
+                        ]
+                    }
+                   
+                ]
+            },
+            {
+                "name": "Panjab",
+                "moduleId": 8,
+                "parentId": 1,
+                "children": [
+                    
+                ]
+            },
+            {
+                "name": "Goa",
+                "moduleId": 9,
+                "parentId": 1,
+                "children": [
+                    
+                    
+                ]
+            }
+          
+        ]
+       
+    },
+    {
+        "name": "Germany ",
+        "moduleId": 4,
+        "parentId": 0,
+        "children": [
+            {
+                "name": "New South Wales",
+                "moduleId": 166,
+                "path": "/department/science",
+                "parentId": 1,
+                "children": [
+                    {
+                        "name": "Sydney",
+                        "moduleId": 171,
+                        "parentId": 6,
+                        "children": [
+                            {
+                                "name": "form11",
+                                "moduleId": 176,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "form12 ",
+                                "moduleId": 177,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "form13",
+                                "moduleId": 178,
+                                "parentId": 11
+                            },
+                            {
+                                "name": " form14",
+                                "moduleId": 179,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "form15",
+                                "moduleId": 180,
+                                "parentId": 11
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Darwin ",
+                        "moduleId": 172,
+                        "parentId": 5,
+                        "children": [
+                            {
+                                "name": "form16",
+                                "moduleId": 181,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form17",
+                                "moduleId": 182,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form18",
+                                "moduleId": 183,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form19",
+                                "moduleId": 184,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form20 ",
+                                "moduleId": 185,
+                                "parentId": 12
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Canberra",
+                        "moduleId": 173,
+                        "parentId": 5,
+                        "children": [
+                            {
+                                "name": "form",
+                                "moduleId": 26,
+                                "parentId": 13
+                            }
+                            
+                            
+                            
+                        ]
+                    }
+                  
+                ]
+            }
+           
+        ]
+
+    },
+    {
+        "name": " Switzerland",
+        "moduleId": 5,
+        "parentId": 0
+    },
+
+    {
+        "name": " ABC",
+        "moduleId": 6,
+        "parentId": 0,
+        "children": [
+            {
+                "name": "New South Wales",
+                "moduleId": 166,
+                "path": "/department/science",
+                "parentId": 1,
+                "children": [
+                    {
+                        "name": "Sydney",
+                        "moduleId": 171,
+                        "parentId": 6,
+                        "children": [
+                            {
+                                "name": "form11",
+                                "moduleId": 176,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "form12 ",
+                                "moduleId": 177,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "form13",
+                                "moduleId": 178,
+                                "parentId": 11
+                            },
+                            {
+                                "name": " form14",
+                                "moduleId": 179,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "form15",
+                                "moduleId": 180,
+                                "parentId": 11
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Darwin ",
+                        "moduleId": 172,
+                        "parentId": 5,
+                        "children": [
+                            {
+                                "name": "form16",
+                                "moduleId": 181,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form17",
+                                "moduleId": 182,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form18",
+                                "moduleId": 183,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form19",
+                                "moduleId": 184,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form20 ",
+                                "moduleId": 185,
+                                "parentId": 12
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Canberra",
+                        "moduleId": 173,
+                        "parentId": 5,
+                        "children": [
+                            {
+                                "name": "form",
+                                "moduleId": 26,
+                                "parentId": 13
+                            }
+                            
+                            
+                            
+                        ]
+                    }
+                  
+                ]
+            }
+           
+        ]
+    },
+
+
+    {
+        "name": " XYZ",
+        "moduleId": 6,
+        "parentId": 0,
+        "children": [
+            {
+                "name": "New South Wales",
+                "moduleId": 166,
+                "path": "/department/science",
+                "parentId": 1,
+                "children": [
+                    {
+                        "name": "Sydney",
+                        "moduleId": 171,
+                        "parentId": 6,
+                        "children": [
+                            {
+                                "name": "form11",
+                                "moduleId": 176,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "form12 ",
+                                "moduleId": 177,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "form13",
+                                "moduleId": 178,
+                                "parentId": 11
+                            },
+                            {
+                                "name": " form14",
+                                "moduleId": 179,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "form15",
+                                "moduleId": 180,
+                                "parentId": 11
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Darwin ",
+                        "moduleId": 172,
+                        "parentId": 5,
+                        "children": [
+                            {
+                                "name": "form16",
+                                "moduleId": 181,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form17",
+                                "moduleId": 182,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form18",
+                                "moduleId": 183,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form19",
+                                "moduleId": 184,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form20 ",
+                                "moduleId": 185,
+                                "parentId": 12
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Canberra",
+                        "moduleId": 173,
+                        "parentId": 5,
+                        "children": [
+                            {
+                                "name": "form",
+                                "moduleId": 26,
+                                "parentId": 13
+                            }
+                            
+                            
+                            
+                        ]
+                    }
+                  
+                ]
+            }
+           
+        ]
+    }
+]
